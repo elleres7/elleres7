@@ -1,14 +1,16 @@
-## Oi, eu sou a Suellen Elleres
+## 👋 Hi, I’m Suellen Elleres
 
-**Engenheira de Dados** apaixonada por transformar dados em informação úteis e escaláveis.  
-Atuo construindo soluções orientadas a dados, sempre buscando performance, qualidade e simplicidade.
+**Data Engineer** passionate about turning data into scalable and reliable solutions.  
+I work with and data-driven architectures, always focused on performance, quality, and simplicity.
 
-Tenho interesse especial em:
-- Engenharia de Dados
-- Arquitetura de Dados
+Areas of interest:
+- Data Engineering
+- Data Architecture
 - Analytics & BI
-- Automação de pipelines
+- Pipeline Automation
 
-**Stack principal**
-Python | SQL | PySpark | Cloud | Data Modeling
+**Main stack**
+```text
+Python | SQL | Spark | Cloud | ETL | Data Modeling
+
 
